@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/auth0-demo/static/css/main.901bea7a.chunk.css",
-    "main.js": "/auth0-demo/static/js/main.5d4443f0.chunk.js",
-    "main.js.map": "/auth0-demo/static/js/main.5d4443f0.chunk.js.map",
+    "main.css": "/auth0-demo/static/css/main.0344db20.chunk.css",
+    "main.js": "/auth0-demo/static/js/main.4e5b1d98.chunk.js",
+    "main.js.map": "/auth0-demo/static/js/main.4e5b1d98.chunk.js.map",
     "runtime-main.js": "/auth0-demo/static/js/runtime-main.59db4f57.js",
     "runtime-main.js.map": "/auth0-demo/static/js/runtime-main.59db4f57.js.map",
-    "static/js/2.609c0e2c.chunk.js": "/auth0-demo/static/js/2.609c0e2c.chunk.js",
-    "static/js/2.609c0e2c.chunk.js.map": "/auth0-demo/static/js/2.609c0e2c.chunk.js.map",
+    "static/js/2.e4f0c2d3.chunk.js": "/auth0-demo/static/js/2.e4f0c2d3.chunk.js",
+    "static/js/2.e4f0c2d3.chunk.js.map": "/auth0-demo/static/js/2.e4f0c2d3.chunk.js.map",
     "index.html": "/auth0-demo/index.html",
-    "static/css/main.901bea7a.chunk.css.map": "/auth0-demo/static/css/main.901bea7a.chunk.css.map",
-    "static/js/2.609c0e2c.chunk.js.LICENSE.txt": "/auth0-demo/static/js/2.609c0e2c.chunk.js.LICENSE.txt"
+    "static/css/main.0344db20.chunk.css.map": "/auth0-demo/static/css/main.0344db20.chunk.css.map",
+    "static/js/2.e4f0c2d3.chunk.js.LICENSE.txt": "/auth0-demo/static/js/2.e4f0c2d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.59db4f57.js",
-    "static/js/2.609c0e2c.chunk.js",
-    "static/css/main.901bea7a.chunk.css",
-    "static/js/main.5d4443f0.chunk.js"
+    "static/js/2.e4f0c2d3.chunk.js",
+    "static/css/main.0344db20.chunk.css",
+    "static/js/main.4e5b1d98.chunk.js"
   ]
 }
