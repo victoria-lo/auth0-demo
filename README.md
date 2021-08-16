@@ -1,13 +1,14 @@
 # Auth0 React Quiz App
 
-A mini quiz app as a tutorial for Auth0 + React.
+A mini quiz app to determine your coder personality as a tutorial for Auth0 + React. It's all for good fun. The results are not scientific.
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629038278757/7p_rzKp4_.gif"/>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629124417201/_UicwYC1a.gif"/>
 
 ## Tutorial
 Read full tutorial at https://lo-victoria.com/a-quick-beginners-guide-to-set-up-auth0-react
 
 ## Usage
+Note: You must have an Auth0 app credential to test the demo locally.
 1. Clone this repo
 2. Run `npm install`
 3. Create `.env` at root folder with credentials. E.g.

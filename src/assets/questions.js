@@ -125,6 +125,90 @@ const questions = [
                 "attribute": "passionate"
             } 
         ]
+    },
+    {
+        "question": "If I'm teaching a newbie how to code, my first lesson is ...",
+        "options":[
+            {
+                "answer":"to teach the tools they will need",
+                "attribute": "creative"
+            },
+            {
+                "answer":"to ask student what they want to learn first",
+                "attribute": "curious"
+            },
+            {
+                "answer":"to show off what they will build after the lesson",
+                "attribute": "adventurous"
+            },
+            {
+                "answer":"to teach them Hello World first",
+                "attribute": "passionate"
+            } 
+        ]
+    },
+    {
+        "question": "If I am not a programmer, I would be a ...",
+        "options":[
+            {
+                "answer":"photographer",
+                "attribute": "creative"
+            },
+            {
+                "answer":"musician",
+                "attribute": "curious"
+            },
+            {
+                "answer":"travel blogger",
+                "attribute": "adventurous"
+            },
+            {
+                "answer":"teacher",
+                "attribute": "passionate"
+            } 
+        ]
+    },
+    {
+        "question": "When coding, I like to listen to ...",
+        "options":[
+            {
+                "answer":"classical or instrumental music",
+                "attribute": "creative"
+            },
+            {
+                "answer":"jazz or any soft music",
+                "attribute": "curious"
+            },
+            {
+                "answer":"rock or any loud music",
+                "attribute": "adventurous"
+            },
+            {
+                "answer":"nothing but my own thoughts",
+                "attribute": "passionate"
+            } 
+        ]
+    },
+    {
+        "question": "Most of the day, I think about ...",
+        "options":[
+            {
+                "answer":"ideas for a new side project",
+                "attribute": "creative"
+            },
+            {
+                "answer":"the meaning of life",
+                "attribute": "curious"
+            },
+            {
+                "answer":"going to travel the world",
+                "attribute": "adventurous"
+            },
+            {
+                "answer":"my future",
+                "attribute": "passionate"
+            } 
+        ]
     }
 ]
 

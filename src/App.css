@@ -65,3 +65,30 @@ button {
 .answer{
   padding-top:10px;
 }
+
+.summary{
+  font-family: "lato", sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.makeStyles-container-1{
+  background: transparent !important;
+  padding:0 !important;
+}
+
+.makeStyles-title-2, .makeStyles-copyContainer-5{
+  display: none !important;
+}
+
+.makeStyles-iconContainer-3{
+  padding: 10px !important;
+}
+.makeStyles-iconContainer-3 button::after{
+  content: "Tweet my results to Victoria";
+  color: white;
+  position: absolute;
+  top:35%;
+  margin-left: 10px;
+}
+
