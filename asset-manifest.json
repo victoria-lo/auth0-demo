@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/auth0-demo/static/css/main.0344db20.chunk.css",
+    "main.css": "/auth0-demo/static/css/main.7c87df7f.chunk.css",
     "main.js": "/auth0-demo/static/js/main.64e7f77b.chunk.js",
     "main.js.map": "/auth0-demo/static/js/main.64e7f77b.chunk.js.map",
     "runtime-main.js": "/auth0-demo/static/js/runtime-main.59db4f57.js",
@@ -8,13 +8,13 @@
     "static/js/2.e4f0c2d3.chunk.js": "/auth0-demo/static/js/2.e4f0c2d3.chunk.js",
     "static/js/2.e4f0c2d3.chunk.js.map": "/auth0-demo/static/js/2.e4f0c2d3.chunk.js.map",
     "index.html": "/auth0-demo/index.html",
-    "static/css/main.0344db20.chunk.css.map": "/auth0-demo/static/css/main.0344db20.chunk.css.map",
+    "static/css/main.7c87df7f.chunk.css.map": "/auth0-demo/static/css/main.7c87df7f.chunk.css.map",
     "static/js/2.e4f0c2d3.chunk.js.LICENSE.txt": "/auth0-demo/static/js/2.e4f0c2d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.59db4f57.js",
     "static/js/2.e4f0c2d3.chunk.js",
-    "static/css/main.0344db20.chunk.css",
+    "static/css/main.7c87df7f.chunk.css",
     "static/js/main.64e7f77b.chunk.js"
   ]
 }
