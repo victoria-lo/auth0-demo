@@ -2,7 +2,7 @@
 
 A mini quiz app to determine your coder personality as a tutorial for Auth0 + React. It's all for good fun. The results are not scientific.
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629124417201/_UicwYC1a.gif"/>
+<img src="./public/demo.gif"/>
 
 ## Tutorial
 Read full tutorial at https://lo-victoria.com/a-quick-beginners-guide-to-set-up-auth0-react
