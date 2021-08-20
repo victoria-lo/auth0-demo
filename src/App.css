@@ -72,19 +72,19 @@ button {
   letter-spacing: 1px;
 }
 
-.makeStyles-container-1{
+.makeStyles-container-1, .jss1{
   background: transparent !important;
   padding:0 !important;
 }
 
-.makeStyles-title-2, .makeStyles-copyContainer-5{
+.makeStyles-title-2, .makeStyles-copyContainer-5, .jss2, .jss5{
   display: none !important;
 }
 
-.makeStyles-iconContainer-3{
+.makeStyles-iconContainer-3, .jss3{
   padding: 10px !important;
 }
-.makeStyles-iconContainer-3 button::after{
+.makeStyles-iconContainer-3 button::after, .jss3 button::after{
   content: "Tweet my results to Victoria";
   color: white;
   position: absolute;
